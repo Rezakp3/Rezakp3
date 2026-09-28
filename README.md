@@ -84,9 +84,11 @@
 ## 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rezakp3&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" width="420" alt="Reza's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezakp3&theme=tokyonight&hide_border=true" width="440" alt="Reza's GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rezakp3&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" width="420" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rezakp3&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" width="440" alt="Reza's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rezakp3&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" width="440" alt="Top Languages" />
 </div>
 
 ---
